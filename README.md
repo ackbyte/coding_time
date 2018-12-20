@@ -1,4 +1,4 @@
-# coding_time
+# Coding time
 
 Let's code!
 
